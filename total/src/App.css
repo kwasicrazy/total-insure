@@ -1,0 +1,22 @@
+.App{
+  background-color: aqua;
+  max-width: 800px;
+  margin: auto;
+ 
+}
+
+body{
+  background-color: black;
+}
+.content{
+  text-align: center;
+}
+
+button{
+  height: 35px;
+  width: 120px;
+  background-color: orangered;
+  color: white;
+  border: none;
+  border-radius: 20px;
+}
